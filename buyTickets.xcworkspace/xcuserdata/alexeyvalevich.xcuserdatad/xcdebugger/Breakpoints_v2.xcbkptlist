@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42EA87EF-5A65-4E1D-AEAF-60830557766F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45165C21-CBD3-44B2-98B2-1B6D85D00DD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "buyTickets/Controllers/MyTicketsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "MyTicketsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "45165C21-CBD3-44B2-98B2-1B6D85D00DD2 - ad2378a8897ce5c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buyTickets.MyTicketsViewController.ticketView.getter : buyTickets.TicketView"
+                  moduleName = "buyTickets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexeyvalevich/Desktop/GitHub/UJAIR2/UJair2/PassengerApp/buyTickets/buyTickets/Controllers/MyTicketsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "45165C21-CBD3-44B2-98B2-1B6D85D00DD2 - da49f54da0e05eb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buyTickets.MyTicketsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; buyTickets.MyTicketsViewController"
+                  moduleName = "buyTickets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexeyvalevich/Desktop/GitHub/UJAIR2/UJair2/PassengerApp/buyTickets/buyTickets/Controllers/MyTicketsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "45165C21-CBD3-44B2-98B2-1B6D85D00DD2 - bef2450e0cfacd47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "buyTickets.MyTicketsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;buyTickets.MyTicketsViewController&gt;"
+                  moduleName = "buyTickets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexeyvalevich/Desktop/GitHub/UJAIR2/UJair2/PassengerApp/buyTickets/buyTickets/Controllers/MyTicketsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

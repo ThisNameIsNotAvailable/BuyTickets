@@ -1,0 +1,20 @@
+PODS:
+  - DropDown (2.3.13)
+  - PMAlertController (4.0.1)
+
+DEPENDENCIES:
+  - DropDown
+  - PMAlertController
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - PMAlertController
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  PMAlertController: ab5fcf4d085b7878c9451466d701449c4bf6efb8
+
+PODFILE CHECKSUM: 75e37095bdf0c969d1c873c6a9801591a1fceac3
+
+COCOAPODS: 1.11.3

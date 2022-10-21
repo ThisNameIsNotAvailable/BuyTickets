@@ -1,0 +1,6 @@
+framework module Pods_buyTickets {
+  umbrella header "Pods-buyTickets-umbrella.h"
+
+  export *
+  module * { export * }
+}
